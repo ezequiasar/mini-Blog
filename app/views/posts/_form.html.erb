@@ -1,3 +1,4 @@
+<div class="container">
 <%= form_for(@post) do |f| %>
      <h1></h1>
      <%= f.collection_select(:category_id, Category.all, :id, :name, {prompt: "Selecciona una categoria" }) %><br>
@@ -8,3 +9,4 @@
 
      <%= f.submit %>
 <% end %>
+</div>
