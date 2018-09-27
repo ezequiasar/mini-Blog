@@ -23,5 +23,5 @@ Abrir en navegador: http://localhost:3000
 * GET /posts/:id  -> ejecuta las acciones en posts#show 
 * GET /posts/:id/edit  -> ejecuta las acciones en posts#edit 
 * POST /posts  -> ejecuta las acciones en posts#create 
-* PATCH or PUT /posts/:id  -> ejecuta las acciones en posts#update 
+* PATCH /posts/:id  -> ejecuta las acciones en posts#update 
 * DELETE /posts/:id  -> ejecuta las acciones en posts#destroy 
