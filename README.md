@@ -18,7 +18,7 @@ Abrir en navegador: http://localhost:3000
 
 #Paths 
 
-* GET /posts  -> ejecuta las acciones en posts#index 
+* GET /  -> ejecuta las acciones en posts#index 
 * GET /posts/new  -> ejecuta las acciones en posts#new 
 * GET /posts/:id  -> ejecuta las acciones en posts#show 
 * GET /posts/:id/edit  -> ejecuta las acciones en posts#edit 
