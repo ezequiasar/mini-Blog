@@ -11,6 +11,7 @@ Comandos para correr la aplicación:
   *Posicionarse en directorio principal(~mini-Blog) y ejecutar:
   * $ rake db:create 
   * $ rake db:migrate 
+  * $ rake db:seeds
   * $ rake routes
   * $ rails s 
   
